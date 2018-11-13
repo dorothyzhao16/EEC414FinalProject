@@ -1,4 +1,4 @@
-## Welcome to Smart Healthcare Implementation in a Hospital Website
+## Welcome to Smart Healthcare Implementation in a Hospital 
 
 You can use the [editor on GitHub](https://github.com/dorothyzhao16/EEC414FinalProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,20 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### The Basics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Medical IoT
+- Table, illustration, and figures here. 
+## Short-range communication 
+- Data and information here.
+### Mobile Application
+- Screenshots here. 
+
+1. Benefits
+2. Go
+3. Here
 
 ```markdown
 Syntax highlighted code block
-
-# Blah blah blah
-## Blah blah blah blah
-### Blah blah blah blah
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -36,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: y.d.zhao@vikes.csuohio.edu
