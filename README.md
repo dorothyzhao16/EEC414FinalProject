@@ -26,6 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+I am losing my mind ~~help~~
+> Why won't this
+> Work
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
