@@ -1,14 +1,12 @@
 ## Welcome to Smart Healthcare Implementation in a Hospital 
 
-You can use the [editor on GitHub](https://github.com/dorothyzhao16/EEC414FinalProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Smart healthcare implementation in hospitals will make a significant difference to patients, healthcare professionals, and the healthcare industry as a whole. Increasing the prevalence and usage of the Internet of Things in medical fields, such as diagnosis, surgery, prevention, and chronic pain management, has the potential to improve the health of many, decrease risks and costs of current day methods, and increase efficiency of communication. Websites, data cataloguing, medical tools, and several other aspects of a hospital setting and patient-physician interaction are both incredibly valuable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Basics
 
-### The Basics
-
-# Medical IoT
+### Medical IoT
 - Table, illustration, and figures here. 
-## Short-range communication 
+### Short-range communication 
 - Data and information here.
 ### Mobile Application
 - Screenshots here. 
@@ -17,21 +15,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. Go
 3. Here
 
-```markdown
-Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 > We are here to help
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Schedule an Appointment
 
-### Schedule an Appointment
+Calendar:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dorothyzhao16/EEC414FinalProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Physicians: 
 
 ### Contact Us
 
