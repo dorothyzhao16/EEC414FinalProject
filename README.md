@@ -6,8 +6,10 @@ Smart healthcare implementation in hospitals will make a significant difference 
 
 ### Medical IoT
 - Table, illustration, and figures here. 
+
 ### Short-range communication 
 - Data and information here.
+
 ### Mobile Application
 - Screenshots here. 
 
@@ -19,6 +21,8 @@ Smart healthcare implementation in hospitals will make a significant difference 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+![Image of Remote Health Monitoring System](https://www.researchgate.net/profile/Hyung-Soon_Park/publication/224809210/figure/fig1/AS:202793777405986@1425361212413/Illustration-of-a-remote-health-monitoring-system-based-on-wearable-sensors-Health.png)
 
 
 > We are here to help
