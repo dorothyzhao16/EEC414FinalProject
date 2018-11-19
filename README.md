@@ -1,4 +1,4 @@
-## **Welcome to e-Health: A Hospital Website Design Example**
+# **Welcome to e-Health: A Hospital Website Design Example**
 
 Smart healthcare implementation in hospitals will make a significant difference to patients, healthcare professionals, and the healthcare industry as a whole. 
 
@@ -35,9 +35,6 @@ Figure 1. A depiction of disparities in individuals' access and use of health IT
 
 
 [Health Vault Example](https://international.healthvault.com/us/en)
-
-
-# Schedule an Appointment
 
 
 ### Contact Us
