@@ -36,6 +36,7 @@ Figure 2. A depiction of disparities in individuals' access and use of health IT
 
 [Health Vault Example](https://international.healthvault.com/us/en)
 
+___
 
 ### Contact Us
 Email: y.d.zhao@vikes.csuohio.edu
